@@ -1,0 +1,2 @@
+923e59cdc718c2579ca262c13a113bc4ba3bd1c439e8c3d74695125146348623  DK-Online-Clean-Release-4.2.0.zip
+f6329e1130f53d9be0ab1a4adef7af56ee79b60b1d20b98b1f64b8bc5d1dfd72  DK-Online-Setup-4.2.0.exe
